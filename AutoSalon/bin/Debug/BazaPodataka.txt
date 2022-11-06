@@ -1,0 +1,7 @@
+opell,corsaa,4555,ne
+citroen,saxo,500,prodano
+opel,astra,6000,prodano
+honda,civic,564444,ne
+audi,a7,456,ne
+opel,corsa,656,ne
+opel,astra,1565,prodano

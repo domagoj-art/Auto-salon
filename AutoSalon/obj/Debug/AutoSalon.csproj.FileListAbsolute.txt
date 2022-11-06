@@ -1,0 +1,8 @@
+C:\Users\domag\source\repos\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe.config
+C:\Users\domag\source\repos\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe
+C:\Users\domag\source\repos\AutoSalon\AutoSalon\bin\Debug\AutoSalon.pdb
+C:\Users\domag\source\repos\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.AssemblyReference.cache
+C:\Users\domag\source\repos\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.SuggestedBindingRedirects.cache
+C:\Users\domag\source\repos\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CoreCompileInputs.cache
+C:\Users\domag\source\repos\AutoSalon\AutoSalon\obj\Debug\AutoSalon.exe
+C:\Users\domag\source\repos\AutoSalon\AutoSalon\obj\Debug\AutoSalon.pdb
